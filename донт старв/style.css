@@ -1,0 +1,72 @@
+header{
+    text-align: center; 
+}
+.ImG{
+    display: flex;
+  justify-content: space-around; 
+  align-items: center; 
+}
+.img1{
+    text-align: center;
+}
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    background-color: black;
+    height: 70px;
+    align-items: center;
+
+}
+li{
+    text-decoration: none;
+
+}
+a{
+    text-decoration: none;
+    color: rgb(112, 182, 112);
+    font-size: 30px;
+}
+h2{
+    text-align: center;
+    
+}
+.CHARLY{
+    text-align: center;
+}
+
+.YEAR{
+    text-align: center;
+}
+body{
+    background-color: rgb(174, 112, 231);
+}
+h1{
+    font-size: 50px;
+}
+.ha{
+    text-align: center;
+  
+}
+.hi{
+    font-size: 30px;
+}
+.cclka{
+    text-align: center;
+    font-size: 100px;
+}
+.pers1{
+text-align: center;/* картинка и текст встает по центру своего блока*/
+width: 500px;/* ширина каждого блока с персонажем */
+font-size: 20px;/* размер текста */
+background-color: antiquewhite;/* Если нужна заливка фона  */
+border-radius: 30px;/* Если нужно закруглить края  */
+
+}
+.pers{
+    display: flex;/* все элементы общего класса снатовятся в строчку */
+    justify-content: space-around;/* отступ между каждым персонажем */
+}
+
+
+
